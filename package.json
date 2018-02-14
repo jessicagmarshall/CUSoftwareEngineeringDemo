@@ -1,0 +1,17 @@
+{
+  "name": "softwareengineering",
+  "version": "1.0.0",
+  "description": "example to do application using node.js, express.js, ajax via jQuery, and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Marshall",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.5"
+  }
+}
